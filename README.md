@@ -12,3 +12,4 @@ Updated documentation
 Cleaned up setup instructions
 Fixed a few outdated details
 Added a small usage example
+Clarified the install steps
