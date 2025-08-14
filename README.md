@@ -16,3 +16,4 @@ Clarified the install steps
 Added a note about local setup
 Updated the run instructions
 Updated the local setup example
+Fixed a typo in the usage section
