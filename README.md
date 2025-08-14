@@ -15,3 +15,4 @@ Added a small usage example
 Clarified the install steps
 Added a note about local setup
 Updated the run instructions
+Updated the local setup example
