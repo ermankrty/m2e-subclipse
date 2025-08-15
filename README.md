@@ -18,3 +18,4 @@ Updated the run instructions
 Updated the local setup example
 Fixed a typo in the usage section
 Added a quick note for running the project
+Simplified the project setup steps
