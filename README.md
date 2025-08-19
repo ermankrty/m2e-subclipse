@@ -20,3 +20,4 @@ Fixed a typo in the usage section
 Added a quick note for running the project
 Simplified the project setup steps
 Added a note about required dependencies
+Updated the setup example
