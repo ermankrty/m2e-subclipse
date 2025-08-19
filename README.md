@@ -22,3 +22,4 @@ Simplified the project setup steps
 Added a note about required dependencies
 Updated the setup example
 Clarified the build instructions
+Fixed a small formatting issue
