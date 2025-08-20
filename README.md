@@ -24,3 +24,4 @@ Updated the setup example
 Clarified the build instructions
 Fixed a small formatting issue
 Updated the troubleshooting section
+Cleaned up a few setup details
