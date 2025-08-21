@@ -25,3 +25,4 @@ Clarified the build instructions
 Fixed a small formatting issue
 Updated the troubleshooting section
 Cleaned up a few setup details
+Added a quick note about running the project
