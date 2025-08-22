@@ -26,3 +26,4 @@ Fixed a small formatting issue
 Updated the troubleshooting section
 Cleaned up a few setup details
 Added a quick note about running the project
+Updated the setup requirements
