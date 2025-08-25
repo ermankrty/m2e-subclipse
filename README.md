@@ -31,3 +31,4 @@ Added a note about local configuration
 Clarified the startup steps
 Fixed a small README example
 Updated the project overview
+Fixed the local setup example
