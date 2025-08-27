@@ -33,3 +33,4 @@ Fixed a small README example
 Updated the project overview
 Fixed the local setup example
 Added a missing configuration detail
+Updated a small setup detail
