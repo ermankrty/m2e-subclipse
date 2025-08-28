@@ -35,3 +35,4 @@ Fixed the local setup example
 Added a missing configuration detail
 Updated a small setup detail
 Clarified the build steps
+Fixed an outdated setup reference
