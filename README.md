@@ -37,3 +37,4 @@ Updated a small setup detail
 Clarified the build steps
 Fixed an outdated setup reference
 Adjusted the project setup instructions
+Handled an edge case in the current flow
