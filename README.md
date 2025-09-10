@@ -45,3 +45,4 @@ Tightened validation around parsed values
 Removed an unused fallback path
 Tightened validation around parsed values
 Removed an unused fallback path
+Improved handling for invalid values
