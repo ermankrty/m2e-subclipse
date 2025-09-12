@@ -47,3 +47,4 @@ Tightened validation around parsed values
 Removed an unused fallback path
 Improved handling for invalid values
 Added a guard for missing values
+Simplified the response handling logic
