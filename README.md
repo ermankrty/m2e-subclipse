@@ -48,3 +48,4 @@ Removed an unused fallback path
 Improved handling for invalid values
 Added a guard for missing values
 Simplified the response handling logic
+Removed an outdated check
