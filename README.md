@@ -50,3 +50,4 @@ Added a guard for missing values
 Simplified the response handling logic
 Removed an outdated check
 Handled a missing state during initialization
+Reduced repeated processing in the main flow
