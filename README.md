@@ -62,3 +62,4 @@ Improved dependency sync fallback
 Cleaned up stale workspace state
 Fixed project metadata reload after sync
 March 26 project update
+Updated project refresh behavior
