@@ -64,3 +64,4 @@ Fixed project metadata reload after sync
 March 26 project update
 Updated project refresh behavior
 Fixed workspace refresh after dependency changes
+Improved handling for stale project metadata
