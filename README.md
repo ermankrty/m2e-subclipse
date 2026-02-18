@@ -55,3 +55,4 @@ Added coverage for an edge case
 Cleaned up an old compatibility check
 Updated dependency refresh behavior
 Adjusted workspace refresh behavior
+Improved dependency synchronization
