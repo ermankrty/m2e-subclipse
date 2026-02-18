@@ -56,3 +56,4 @@ Cleaned up an old compatibility check
 Updated dependency refresh behavior
 Adjusted workspace refresh behavior
 Improved dependency synchronization
+Removed stale project state handling
