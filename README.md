@@ -66,3 +66,4 @@ Updated project refresh behavior
 Fixed workspace refresh after dependency changes
 Improved handling for stale project metadata
 Simplified cleanup after a failed project sync
+Fixed project reload after classpath changes
