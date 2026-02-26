@@ -69,3 +69,4 @@ Simplified cleanup after a failed project sync
 Fixed project reload after classpath changes
 Improved handling for outdated workspace metadata
 Improved handling for project refresh failures
+Fixed project sync after dependency updates
