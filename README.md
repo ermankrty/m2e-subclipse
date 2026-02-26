@@ -71,3 +71,4 @@ Improved handling for outdated workspace metadata
 Improved handling for project refresh failures
 Fixed project sync after dependency updates
 Improved handling for stale build state
+Removed an unnecessary refresh check
