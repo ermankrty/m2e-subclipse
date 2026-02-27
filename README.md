@@ -74,3 +74,4 @@ Improved handling for stale build state
 Removed an unnecessary refresh check
 Fixed cleanup after a failed workspace update
 Fixed workspace reload after build path changes
+Improved cleanup for stale project markers
