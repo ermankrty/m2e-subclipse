@@ -76,3 +76,4 @@ Fixed cleanup after a failed workspace update
 Fixed workspace reload after build path changes
 Improved cleanup for stale project markers
 Fixed project refresh after Maven configuration changes
+Improved handling for unresolved workspace dependencies
