@@ -78,3 +78,4 @@ Improved cleanup for stale project markers
 Fixed project refresh after Maven configuration changes
 Improved handling for unresolved workspace dependencies
 Removed stale project state after synchronization
+Fixed dependency refresh after workspace reload
