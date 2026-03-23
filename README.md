@@ -80,3 +80,4 @@ Improved handling for unresolved workspace dependencies
 Removed stale project state after synchronization
 Fixed dependency refresh after workspace reload
 Fixed project reload after dependency graph changes
+Improved handling for stale classpath entries
