@@ -60,3 +60,4 @@ Removed stale project state handling
 Adjusted project refresh behavior
 Improved dependency sync fallback
 Cleaned up stale workspace state
+Fixed project metadata reload after sync
