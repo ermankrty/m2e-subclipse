@@ -59,3 +59,4 @@ Improved dependency synchronization
 Removed stale project state handling
 Adjusted project refresh behavior
 Improved dependency sync fallback
+Cleaned up stale workspace state
