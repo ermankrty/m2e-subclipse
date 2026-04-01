@@ -87,3 +87,4 @@ Fixed dependency refresh after project import
 Improved classpath update handling
 Removed duplicate workspace refresh logic
 Fixed stale project markers after sync
+Simplified project state cleanup after build
