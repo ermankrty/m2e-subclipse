@@ -84,3 +84,4 @@ Improved handling for stale classpath entries
 Simplified workspace synchronization after import
 Fixed cleanup for outdated project markers
 Fixed dependency refresh after project import
+Improved classpath update handling
